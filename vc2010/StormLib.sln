@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual C++ Express 2010
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "StormLib", "StormLib.vcxproj", "{1679DE9F-0ACB-43F6-91EE-F7B378978070}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Storm_dll", "Storm_dll\Storm_dll.vcxproj", "{86FA068E-BFF5-4129-A3A2-4D175EC4ECE8}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Storm_dll", "Storm_dll.vcxproj", "{86FA068E-BFF5-4129-A3A2-4D175EC4ECE8}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "StormLib_dll", "StormLib_dll\StormLib_dll.vcxproj", "{C62DFE58-1084-47F0-82EF-889BB5EC5599}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "StormLib_dll", "StormLib_dll.vcxproj", "{C62DFE58-1084-47F0-82EF-889BB5EC5599}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -13,10 +13,10 @@ Global
 		Release|Win32 = Release|Win32
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{1679DE9F-0ACB-43F6-91EE-F7B378978070}.Debug|Win32.ActiveCfg = Debug|Win32
-		{1679DE9F-0ACB-43F6-91EE-F7B378978070}.Debug|Win32.Build.0 = Debug|Win32
-		{1679DE9F-0ACB-43F6-91EE-F7B378978070}.Release|Win32.ActiveCfg = Release|Win32
-		{1679DE9F-0ACB-43F6-91EE-F7B378978070}.Release|Win32.Build.0 = Release|Win32
+		{1679DE9F-0ACB-43F6-91EE-F7B378978070}.Debug|Win32.ActiveCfg = DebugAS|Win32
+		{1679DE9F-0ACB-43F6-91EE-F7B378978070}.Debug|Win32.Build.0 = DebugAS|Win32
+		{1679DE9F-0ACB-43F6-91EE-F7B378978070}.Release|Win32.ActiveCfg = ReleaseAS|Win32
+		{1679DE9F-0ACB-43F6-91EE-F7B378978070}.Release|Win32.Build.0 = ReleaseAS|Win32
 		{86FA068E-BFF5-4129-A3A2-4D175EC4ECE8}.Debug|Win32.ActiveCfg = Debug|Win32
 		{86FA068E-BFF5-4129-A3A2-4D175EC4ECE8}.Debug|Win32.Build.0 = Debug|Win32
 		{86FA068E-BFF5-4129-A3A2-4D175EC4ECE8}.Release|Win32.ActiveCfg = Release|Win32

@@ -15,18 +15,14 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="storm_dll.cpp">
+    <ClCompile Include="..\stormlib_dll\DllMain.c">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <None Include="storm_dll.def">
+    <None Include="..\stormlib_dll\StormLib.def">
       <Filter>Source Files</Filter>
     </None>
-  </ItemGroup>
-  <ItemGroup>
-    <ClInclude Include="storm_dll.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
+    <None Include="..\stormlib_dll\StormLib.exp" />
   </ItemGroup>
 </Project>

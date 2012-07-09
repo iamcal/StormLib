@@ -1,7 +1,5 @@
-Debug/*
-*/Debug/*
-Release/*
-*/Release/*
+vc2010/build
+bin/*
 ipch
 *.sdf
 *.opensdf
